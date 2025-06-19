@@ -6,5 +6,5 @@
 
 [Dr. Bradley MacIntosh](https://github.com/bmacgrp/)
 
-
-
+Dr. Jamie Near
+- [FID-A: Toolbox for Simulation and Processing of MR Spectroscopy Data](https://github.com/CIC-methods/FID-A)
